@@ -6,6 +6,7 @@ This project features a Unity shader that simulates the experience of blinking f
 
 ## Tools
 - Unity 2021.3.20f1
+- HLSL
 
 ## License
 This project is licensed under the MIT License.
