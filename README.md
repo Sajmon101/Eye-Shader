@@ -5,7 +5,7 @@ This project features a Unity shader that simulates the experience of blinking f
 <img src="Images/Presentation.gif" alt="Gameplay GIF" width="500"/>
 
 ## Tools
-- Unity 2021.3.20f1
+- Unity 2021.3.20f1 (build-in pipeline)
 - HLSL
 
 ## License
